@@ -1,3 +1,15 @@
 # minimal dependencies for running the code in this repo
-langchain-groq 
+langchain-groq
+langchain-community
+# for document loaders
+langchain-community
 python-dotenv
+# for PDF parsing
+pypdf
+langchain-text-splitters
+# for vector store and retriever
+langchain-huggingface
+sentence-transformers
+# for chromadb vector store
+langchain-chroma
+chromadb
