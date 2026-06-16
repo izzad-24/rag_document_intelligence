@@ -1,0 +1,1 @@
+Machine learning is a subset of artificial intelligence. It allows systems to learn from data. Supervised learning uses labelled examples. Unsupervised learning finds hidden patterns. Reinforcement learning uses rewards and penalties.
