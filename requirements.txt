@@ -11,5 +11,9 @@ langchain-text-splitters
 langchain-huggingface
 sentence-transformers
 # for chromadb vector store
+langchain
 langchain-chroma
 chromadb
+# notebook dependencies
+ipython
+jupyterlab
