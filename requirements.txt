@@ -17,3 +17,5 @@ chromadb
 # notebook dependencies
 ipython
 jupyterlab
+# deployment
+streamlit
