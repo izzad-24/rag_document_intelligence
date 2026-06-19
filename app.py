@@ -32,7 +32,7 @@ with st.sidebar:
     groq_api_key = st.text_input(
         "Groq API Key",
         type="password",
-        value=os.getenv("GROQ_API_KEY", ""),
+        value=os.getenv(" ", ""), # groq api key
         help="Get a free key at console.groq.com"
     )
 
